@@ -44,7 +44,7 @@ Por ser uma linguagem de programação majoritariamente voltada ao front-end, gr
 
 O ECMAScript 6, conhecido como o O Futuro do JavaScript, trouxe ainda mais mudanças para a linguagem. Esta atualização foi bastante significativa entre a comunidade porque as versões anteriores do ES, o ECMAScript 5 e 5.1, não trouxeram muitas inovações.
 
-##Veja algumas das novas features:
+## Veja algumas das novas features:
 
 Funções arrow;
 Funções map, filter e reduce;
